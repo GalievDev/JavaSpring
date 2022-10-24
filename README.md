@@ -17,10 +17,10 @@
 		* Project id as `slug`
 		* Downloads as `downloads`
 
-   and save to the database in the form
-   | Time        | Project Name | Slug   | Downloads   |
-   | ----------- | ------------ | ------ | ----------- |
-   | `timestamp` | `name`       | `slug` | `downloads` |
+     and save to the database in the form
+     	| Time        | Project Name | Slug   | Downloads   |
+     	| ----------- | ------------ | ------ | ----------- |
+     	| `timestamp` | `name`       | `slug` | `downloads` |
   
   3. Using [Spring Boot](https://spring.io/quickstart) create a **GET** request `/{slug}`. We use the incoming path as parameter for SQL query
 
