@@ -9,7 +9,7 @@
 
 ## Tasks
 
-### Basic
+### Base
   1. Parse [CurseForge](https://www.curseforge.com/members/duckyhatsu/projects) profile page every 6 hours using [JSOAP](https://jsoup.org)
 
   2. Extracting data from parsing
@@ -32,3 +32,6 @@
 	"downloads": [1, 2, 3, N...]
   }
   ```
+
+### Additional
+  1. Add query request filters `/{slug}?limit=N` that limit how much data u recive from database. N is Integer
