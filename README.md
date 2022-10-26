@@ -3,7 +3,7 @@
 ## Tools
   * [Spring Boot](https://spring.io/quickstart)
 	* [Jackson JSON Srialization](https://springeframework.guru/processing-json-jackson/)
-  * [JSOAP](https://jsoup.org)
+  * [JSOUP](https://jsoup.org)
   * Database [PostgresSQL](https://postgresql.org) or [SQLite](https://sqlite.org/)
 	* [Postgres JDBC](https://jdbc.postgresql.org) or [SQLite JDBC](https://github.com/xerial/sqlite-jdbc)
 
